@@ -1,3 +1,0 @@
-Alert("Hello print":) var = 1;
-Print("My name Sergey":)
-Print("look")
