@@ -1,1 +1,1 @@
-Alert("Hello print")
+Alert("Hello print") var = 1;
