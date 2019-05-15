@@ -1,0 +1,3 @@
+Alert("Hello print") var = 1;
+Alert("Hello print") var = 12;
+Alert("Hello print") var = 13;
